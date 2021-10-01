@@ -1,2 +1,2 @@
 # Creator Reserve
-Reserve page for CCS Mainnet
+Reserve form page for CCS Mainnet
